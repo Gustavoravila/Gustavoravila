@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustavoravila
 - 👀 I’m interested in  Aprender Programação
-- 🌱 I’m currently learning  C e Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  gustavor.avila@gmail.com
 
